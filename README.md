@@ -67,6 +67,3 @@ streamlit run webapp.py
 위 명령어로 실행하면 Streamlit을 사용해서 웹앱으로 구현을 할 수 있다. 
 왼쪽 canvas에 글자를 쓰면, 오른쪽에 모델이 recognition한 이미지가 나타나고, 결과를 보여준다.
 
-steamlit은 아래 youtube를 참조하였다.
-Link : http://asq.kr/DxUZf7Fgzmtmdq
-
